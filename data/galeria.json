@@ -1,0 +1,557 @@
+{
+  "professor": [
+    {
+      "id": "casamentos-premiados",
+      "titulo": "Casamentos Premiados",
+      "descricao": "Fotos de casamento premiadas em concursos internacionais.",
+      "fotos": [
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/2913436086884b7def79.jpg",
+          "titulo": "2913436086884b7def79"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/29142360866e270dc8a8.jpg",
+          "titulo": "29142360866e270dc8a8"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/29142360866e285fd9b10.jpg",
+          "titulo": "29142360866e285fd9b10"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/43841865cfa7eb3a9530.jpg",
+          "titulo": "43841865cfa7eb3a9530"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/44764664dcf904f001a0.jpg",
+          "titulo": "44764664dcf904f001a0"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/49408766829cd6269188.jpg",
+          "titulo": "49408766829cd6269188"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/david-hofman-366-r48.jpg",
+          "titulo": "DAVID-HOFMAN-366-r48"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/fdb28-entry-2754-franciscoalvarezfracofotografia-03.jpg",
+          "titulo": "FDB28-entry-2754-franciscoalvarezfracofotografia 03"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/jesus-ochoa-71-r41.jpg",
+          "titulo": "Jesus-Ochoa-71-r41"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/ralf-czogallik-132-r40.jpg",
+          "titulo": "Ralf-Czogallik-132-r40"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/fabio-colombo-10.jpg",
+          "titulo": "fabio-colombo 10"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/julien-laurent-georges-3321-r69.jpg",
+          "titulo": "julien-laurent-georges-3321-r69"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/mateus-scheibel-1.jpg",
+          "titulo": "mateus-scheibel 1"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/mischa-baettig-gallery-76101.jpg",
+          "titulo": "mischa-baettig-gallery-76101"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/patrick-mateer-22.jpg",
+          "titulo": "patrick-mateer 22"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/peng-zhou-6847-r87.jpg",
+          "titulo": "peng-zhou-6847-r87"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/rafael-pimenta-19.jpg",
+          "titulo": "rafael-pimenta 19"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/rafael-pimenta-3.jpg",
+          "titulo": "rafael-pimenta 3"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/romeo-mihail-11.jpg",
+          "titulo": "romeo-mihail 11"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/romeo-mihail-2.jpg",
+          "titulo": "romeo-mihail 2"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/romeo-mihail-4.jpg",
+          "titulo": "romeo-mihail 4"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Casamentos-Premiados/romeo-mihail-6.jpg",
+          "titulo": "romeo-mihail 6"
+        }
+      ]
+    },
+    {
+      "id": "estudosdecasos",
+      "titulo": "Estudos de Casos",
+      "descricao": "Estudos de luz, composição e enquadramento.",
+      "fotos": [
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/04de9a60-e1d7-4dcb-875a-77bb3ced0450.jpg",
+          "titulo": "04de9a60-e1d7-4dcb-875a-77bb3ced0450"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/162666e9-3d05-4aeb-b6f0-c11195c9223f.jpg",
+          "titulo": "162666e9-3d05-4aeb-b6f0-c11195c9223f"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/17db21746b9072483e467df671a15877.jpg",
+          "titulo": "17db21746b9072483e467df671a15877"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/28d1990fab39d45ef5db023bf14d7fbe.jpg",
+          "titulo": "28d1990fab39d45ef5db023bf14d7fbe"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/556bf8083c36518fed2b25880dd2ed36.jpg",
+          "titulo": "556bf8083c36518fed2b25880dd2ed36"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/73afa0e9-c2b2-4bcc-b2c3-76c3107cc4f8.jpg",
+          "titulo": "73afa0e9-c2b2-4bcc-b2c3-76c3107cc4f8"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/9a7ca010-707c-4606-b111-21cdac31c3b5.jpg",
+          "titulo": "9a7ca010-707c-4606-b111-21cdac31c3b5"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/ajm.jpg",
+          "titulo": "AJM ❤❤❤"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/horse-rider-photoshoot-kennedy-zero-j-klein-photos.jpg",
+          "titulo": "Horse & Rider Photoshoot, Kennedy & Zero — J Klein Photos"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/c49e22d8507cd1a930ade4f72a37884b.jpg",
+          "titulo": "c49e22d8507cd1a930ade4f72a37884b"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/ccfdc929769df03918de606248a1ed19.jpg",
+          "titulo": "ccfdc929769df03918de606248a1ed19"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/d7db9e37-6efb-44dd-88f6-29590c11062c.jpg",
+          "titulo": "d7db9e37-6efb-44dd-88f6-29590c11062c"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/e6bd4f9c7ff20ae30cb4ad60737986c9.jpg",
+          "titulo": "e6bd4f9c7ff20ae30cb4ad60737986c9"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/f0ade5dc-d3ce-497c-a9cd-a5b29d717ab3.jpg",
+          "titulo": "f0ade5dc-d3ce-497c-a9cd-a5b29d717ab3"
+        },
+        {
+          "arquivo": "assets/galeria/professor/EstudosDeCasos/f7a1006d60b7587d6244511d0682d3e4.jpg",
+          "titulo": "f7a1006d60b7587d6244511d0682d3e4"
+        }
+      ]
+    },
+    {
+      "id": "eventos",
+      "titulo": "Eventos",
+      "descricao": "Registros de eventos e cobertura fotográfica.",
+      "fotos": [
+        {
+          "arquivo": "assets/galeria/professor/Eventos/acb-18-07-2025-17.jpg",
+          "titulo": "ACB 18-07-2025-17"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/acb-18-07-2025-280.jpg",
+          "titulo": "ACB 18-07-2025-280"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/acb-18-07-2025-289.jpg",
+          "titulo": "ACB 18-07-2025-289"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/acb-18-07-2025-291.jpg",
+          "titulo": "ACB 18-07-2025-291"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/acb-18-07-2025-32.jpg",
+          "titulo": "ACB 18-07-2025-32"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/acb-18-07-2025-338.jpg",
+          "titulo": "ACB 18-07-2025-338"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/acb-18-07-2025-340.jpg",
+          "titulo": "ACB 18-07-2025-340"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/acb-18-07-2025-7.jpg",
+          "titulo": "ACB 18-07-2025-7"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/dsc05789.jpg",
+          "titulo": "DSC05789"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/dsc06173.jpg",
+          "titulo": "DSC06173"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-1474.jpg",
+          "titulo": "IMG 1474"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-1497.jpg",
+          "titulo": "IMG 1497"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-2147.jpg",
+          "titulo": "IMG 2147"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-2266.jpg",
+          "titulo": "IMG 2266"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-2342.jpg",
+          "titulo": "IMG 2342"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-2563-fx0.jpg",
+          "titulo": "IMG 2563 Fx0"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-3663.jpg",
+          "titulo": "IMG 3663"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-3804-2.jpg",
+          "titulo": "IMG 3804-2"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-3805-2.jpg",
+          "titulo": "IMG 3805-2"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-3821-3.jpg",
+          "titulo": "IMG 3821-3"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-3823-3.jpg",
+          "titulo": "IMG 3823-3"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-3824-3.jpg",
+          "titulo": "IMG 3824-3"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-3837.jpg",
+          "titulo": "IMG 3837"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-3920.jpg",
+          "titulo": "IMG 3920"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-4000-2.jpg",
+          "titulo": "IMG 4000-2"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-4517.jpg",
+          "titulo": "IMG 4517"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-4979.jpg",
+          "titulo": "IMG 4979"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-5322.jpg",
+          "titulo": "IMG 5322"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-5451.jpg",
+          "titulo": "IMG 5451"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-5666.jpg",
+          "titulo": "IMG 5666"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-5760.jpg",
+          "titulo": "IMG 5760"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-5810.jpg",
+          "titulo": "IMG 5810"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-5837.jpg",
+          "titulo": "IMG 5837"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-5891.jpg",
+          "titulo": "IMG 5891"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-6074.jpg",
+          "titulo": "IMG 6074"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/img-9522.jpg",
+          "titulo": "IMG 9522"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-0817.jpg",
+          "titulo": "MG 0817"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-1591.png",
+          "titulo": "MG 1591"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-1628.jpg",
+          "titulo": "MG 1628"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-2580.jpg",
+          "titulo": "MG 2580"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-2879.jpg",
+          "titulo": "MG 2879"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-3076.jpg",
+          "titulo": "MG 3076"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-3183.jpg",
+          "titulo": "MG 3183"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-3198.jpg",
+          "titulo": "MG 3198"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-3607.jpg",
+          "titulo": "MG 3607"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-3656.jpg",
+          "titulo": "MG 3656"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-4088.jpg",
+          "titulo": "MG 4088"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-4130.jpg",
+          "titulo": "MG 4130"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-4293.jpg",
+          "titulo": "MG 4293"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-4548.jpg",
+          "titulo": "MG 4548"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-4595.jpg",
+          "titulo": "MG 4595"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-4863.jpg",
+          "titulo": "MG 4863"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-4972.jpg",
+          "titulo": "MG 4972"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-6584.jpg",
+          "titulo": "MG 6584"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-6692.jpg",
+          "titulo": "MG 6692"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-6790.jpg",
+          "titulo": "MG 6790"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-8117.jpg",
+          "titulo": "MG 8117"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Eventos/mg-8272.jpg",
+          "titulo": "MG 8272"
+        }
+      ]
+    },
+    {
+      "id": "motocross",
+      "titulo": "Motocross",
+      "descricao": "Ação, velocidade e o momento decisivo.",
+      "fotos": [
+        {
+          "arquivo": "assets/galeria/professor/Motocross/imgw-508.jpg",
+          "titulo": "IMGW-508"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/imgw-554.jpg",
+          "titulo": "IMGW-554"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/imgw-828.jpg",
+          "titulo": "IMGW-828"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-3801.jpg",
+          "titulo": "IMG 3801"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-3810.jpg",
+          "titulo": "IMG 3810"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-4192.jpg",
+          "titulo": "IMG 4192"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-4935.jpg",
+          "titulo": "IMG 4935"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-4944.jpg",
+          "titulo": "IMG 4944"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-5082.jpg",
+          "titulo": "IMG 5082"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-5929.jpg",
+          "titulo": "IMG 5929"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-5981.jpg",
+          "titulo": "IMG 5981"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-6093.jpg",
+          "titulo": "IMG 6093"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-8107.jpg",
+          "titulo": "IMG 8107"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-8377.jpg",
+          "titulo": "IMG 8377"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/img-8509.jpg",
+          "titulo": "IMG 8509"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/mg-5848.jpg",
+          "titulo": "MG 5848"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/mg-9293.jpg",
+          "titulo": "MG 9293"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/mg-9597.jpg",
+          "titulo": "MG 9597"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/mg-9616.jpg",
+          "titulo": "MG 9616"
+        },
+        {
+          "arquivo": "assets/galeria/professor/Motocross/mg-9626.jpg",
+          "titulo": "MG 9626"
+        }
+      ]
+    }
+  ],
+  "alunos": [
+    {
+      "id": "antonio-ribeiro-duarte",
+      "titulo": "Antonio Ribeiro Duarte",
+      "descricao": "Fotos enviadas pelos alunos do curso.",
+      "fotos": [
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-02-05-1.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-02-05.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-02-07-1.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-02-07.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-02-08-1.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-02-09-1.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-02-09.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-02-11-1.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-02-12.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-23-37.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-23-38.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-20-23-39.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-03-31-at-21-06-04-2.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        },
+        {
+          "arquivo": "assets/galeria/alunos/antonio-ribeiro-duarte/whatsapp-image-2026-04-04-at-12-21-21.jpeg",
+          "titulo": "Foto de Antonio Ribeiro Duarte"
+        }
+      ]
+    }
+  ]
+}

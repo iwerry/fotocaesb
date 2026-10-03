@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "badge": "Curso de Fotografia Express • Edição Caesb",
+    "titulo": "Curso de Fotografia Express",
+    "subtitulo": "Em 60 minutos, aprenda a olhar com intenção, ler a luz e compor fotos melhores com o celular que já está no seu bolso.",
+    "cta_principal": "Ver apostila e podcast",
+    "cta_secundario": "Praticar com a câmera"
+  },
+  "como_funciona": {
+    "titulo": "Uma hora, quatro módulos",
+    "descricao": "Do olhar intencional à leitura crítica: uma aula expositiva e prática para fotografar com o celular.",
+    "cards": [
+      {
+        "titulo": "Mentalidade fotográfica",
+        "texto": "Passe do olhar automático à escolha consciente do que fica dentro do quadro."
+      },
+      {
+        "titulo": "Ciência da luz e captura",
+        "texto": "Leia a luz e ajuste a exposição para cenas claras, escuras, suaves ou dramáticas."
+      },
+      {
+        "titulo": "Composição e geometria",
+        "texto": "Use profundidade, Gestalt, terços, linhas-guia e proporção áurea."
+      },
+      {
+        "titulo": "Alfabetização visual",
+        "texto": "Leia imagens, faça perguntas e continue praticando com desafios no celular."
+      }
+    ]
+  },
+  "sobre": {
+    "titulo": "Fotografia com intenção",
+    "descricao": "A câmera registra a cena; o fotógrafo escolhe o que mostrar, como usar a luz e para onde conduzir o olhar."
+  },
+  "prof_daniel": {
+    "titulo": "Prof. Daniel Rodrigues",
+    "subtitulo": "Fotógrafo profissional, educador e apaixonado por despertar o olhar sensível de cada aluno.",
+    "paragrafos": [
+      "Com mais de 15 anos dedicados à fotografia e ao ensino visual, o Prof. Daniel Rodrigues combina sólida técnica com sensibilidade artística, acumulando premiações em concursos internacionais nas áreas de casamentos, retratos e ensaios.",
+      "No Curso de Fotografia — Edição Caesb, o método foi especialmente desenhado para quem deseja aprender no seu próprio ritmo, sem pressa e sem jargões complicados. O objetivo central é a alfabetização do olhar: aprender a enxergar a luz, a geometria e a poesia dos momentos cotidianos.",
+      "Não importa se você usa uma câmera DSLR, uma moderna mirrorless ou simplesmente a câmera do celular: o que transforma um registro em arte é a intenção e a sensibilidade do seu olhar."
+    ],
+    "citacao": "A técnica qualquer um aprende com o tempo. Mas o olhar atento, a paciência e a alegria de registrar a vida pertencem a quem se permite desacelerar e contemplar.",
+    "destaques": [
+      "Mais de 15 anos de atuação na fotografia profissional e premiações internacionais",
+      "Metodologia leve, acolhedora e acessível, com ênfase na prática e observação",
+      "Aulas com foco em composição, direção da luz natural e enquadramento expressivo",
+      "Atendimento próximo e canal direto para tirar dúvidas com o professor"
+    ],
+    "cta": "Falar com o Prof. Daniel no WhatsApp"
+  },
+  "material": {
+    "titulo": "Apostila e podcast",
+    "subtitulo": "Baixe o PDF do Curso de Fotografia Express e ouça no site o podcast Do olhar biológico à fotografia intencional.",
+    "vazio": "Os materiais do curso estarão disponíveis em breve.",
+    "dica": "Leia a apostila ou ouça o episódio e depois pratique os exercícios com o celular."
+  },
+  "footer": {
+    "texto": "© 2026 Curso de Fotografia Edição Caesb — Prof. Daniel Rodrigues"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "badge": "Curso de Fotografia Express • Edição Caesb",
+    "titulo": "Curso de Fotografia Express",
+    "subtitulo": "Em 60 minutos, aprenda a olhar com intenção, ler a luz e compor fotos melhores com o celular que já está no seu bolso.",
+    "cta_principal": "Ver apostila e podcast",
+    "cta_secundario": "Praticar com a câmera"
+  },
+  "como_funciona": {
+    "titulo": "Uma hora, quatro módulos",
+    "descricao": "Do olhar intencional à leitura crítica: uma aula expositiva e prática para fotografar com o celular.",
+    "cards": [
+      {
+        "titulo": "Mentalidade fotográfica",
+        "texto": "Passe do olhar automático à escolha consciente do que fica dentro do quadro."
+      },
+      {
+        "titulo": "Ciência da luz e captura",
+        "texto": "Leia a luz e ajuste a exposição para cenas claras, escuras, suaves ou dramáticas."
+      },
+      {
+        "titulo": "Composição e geometria",
+        "texto": "Use profundidade, Gestalt, terços, linhas-guia e proporção áurea."
+      },
+      {
+        "titulo": "Alfabetização visual",
+        "texto": "Leia imagens, faça perguntas e continue praticando com desafios no celular."
+      }
+    ]
+  },
+  "sobre": {
+    "titulo": "Fotografia com intenção",
+    "descricao": "A câmera registra a cena; o fotógrafo escolhe o que mostrar, como usar a luz e para onde conduzir o olhar."
+  },
+  "prof_daniel": {
+    "titulo": "Prof. Daniel Rodrigues",
+    "subtitulo": "Jornalista e motion designer com mais de 10 anos de experiência em fotografia e produção audiovisual.",
+    "paragrafos": [
+      "Daniel trabalha com fotografia, cinematografia, edição de vídeo, motion design e produção audiovisual. Sua experiência abrange conteúdos jornalísticos, institucionais, documentais, culturais e digitais.",
+      "Ao longo da carreira, atuou no Metrópoles.com e na CNA, além de trabalhar por 10 anos em produção audiovisual independente. Participa de diferentes etapas dos projetos: pesquisa e planejamento, captação, entrevistas, edição, pós-produção e entrega.",
+      "No Curso de Fotografia — Edição Caesb, essa vivência se transforma em prática: observar a luz, escolher o enquadramento e contar histórias com a câmera ou o celular, no seu próprio ritmo."
+    ],
+    "citacao": "A técnica qualquer um aprende com o tempo. Mas o olhar atento, a paciência e a alegria de registrar a vida pertencem a quem se permite desacelerar e contemplar.",
+    "destaques": [
+      "Fotografia, fotojornalismo e cinematografia",
+      "Produção audiovisual, entrevistas, captação e pós-produção",
+      "Edição de vídeo, motion design e narrativa visual"
+    ],
+    "experiencias": [
+      {
+        "organizacao": "Metrópoles.com",
+        "cargo": "Editor de vídeo e motion designer",
+        "descricao": "Produção audiovisual em ambiente jornalístico, integrando contexto editorial, captação de imagens, narrativa visual, edição e conteúdo para o site e as redes sociais."
+      },
+      {
+        "organizacao": "CNA — Confederação da Agricultura e Pecuária do Brasil",
+        "cargo": "Editor e motion designer",
+        "descricao": "Criação e edição de conteúdo audiovisual para comunicação institucional, em colaboração com jornalistas e equipes de comunicação, incluindo atividades ligadas à COP30 (Zona Verde)."
+      },
+      {
+        "organizacao": "Produção audiovisual independente",
+        "cargo": "Direção de fotografia, edição e motion design · 10 anos",
+        "descricao": "Projetos corporativos, documentários, conteúdo promocional, eventos culturais, entrevistas e pós-produção, da concepção à entrega, incluindo trabalhos com financiamento público e Lei Rouanet."
+      }
+    ],
+    "formacao": "Bacharelado em Audiovisual — Cinema, Universidade Uninabuco Digital (2024–2025).",
+    "idiomas": [
+      "Português — nativo",
+      "Espanhol — avançado",
+      "Inglês — leitura profissional e técnica"
+    ],
+    "certificacoes": {
+      "texto": "Mais de 90 certificações profissionais em audiovisual e jornalismo investigativo.",
+      "url": "https://drive.google.com/drive/folders/1CzAd2TRzlszizv5Tpz7VWMGog4B78gaL?usp=sharing"
+    },
+    "cta": "Falar com o Prof. Daniel no WhatsApp"
+  },
+  "material": {
+    "titulo": "Apostila e podcast",
+    "subtitulo": "Baixe o PDF do Curso de Fotografia Express e ouça no site o podcast Do olhar biológico à fotografia intencional.",
+    "vazio": "Os materiais do curso estarão disponíveis em breve.",
+    "dica": "Leia a apostila ou ouça o episódio e depois pratique os exercícios com o celular."
+  },
+  "footer": {
+    "texto": "© 2026 Curso de Fotografia Edição Caesb — Prof. Daniel Rodrigues"
+  }
+}

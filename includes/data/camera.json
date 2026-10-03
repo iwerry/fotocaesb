@@ -1,0 +1,119 @@
+{
+  "secoes": [
+    {
+      "id": "dslr-mirrorless",
+      "titulo": "O grande dilema: DSLR ou Mirrorless?",
+      "introducao": "Escolher uma câmera é como escolher um carro: os dois levam você ao destino, mas a viagem é bem diferente.",
+      "itens": [
+        {
+          "titulo": "DSLR: a clássica e robusta",
+          "texto": "É o modelo tradicional, com espelho interno e aquele som de \"clique\" que todo mundo reconhece. É mais pesada e vem sendo aos poucos substituída pelas mais modernas."
+        },
+        {
+          "titulo": "Mirrorless: o futuro silencioso",
+          "texto": "Mais leve, sem espelho, com foco automático inteligente. O grande presente: a tela mostra exatamente como a foto vai ficar antes de você clicar."
+        }
+      ]
+    },
+    {
+      "id": "familias",
+      "titulo": "As famílias de câmeras em 2026",
+      "introducao": "Cada marca tem um tempero próprio. Não existe a melhor do mundo — existe a melhor para você.",
+      "itens": [
+        {
+          "titulo": "Canon: a amigável",
+          "texto": "Famosa pelos menus simples e pelas cores de pele bonitas. Ótima para quem está começando (linhas EOS R50 e R10) e também para os avançados (EOS R5 Mark III)."
+        },
+        {
+          "titulo": "Sony: a tecnológica",
+          "texto": "Referência em foco automático \"mágico\" que acompanha rostos e olhos. As compactas da série Alpha 6000 e as Alpha 7 são as queridinhas dos profissionais."
+        },
+        {
+          "titulo": "Nikon: o charme retrô",
+          "texto": "Encanta quem gostava das câmeras de filme dos anos 70 e 80: modelos como a Zf unem visual clássico com tecnologia de ponta."
+        },
+        {
+          "titulo": "Leica e DJI: as de nicho",
+          "texto": "A Leica é luxo e a arte do foco manual, mais devagar. A DJI traz câmeras de bolso com estabilização excelente para vídeos."
+        }
+      ]
+    },
+    {
+      "id": "lentes",
+      "titulo": "Guia de lentes: os óculos da câmera",
+      "introducao": "A lente muda tudo. Estas cinco resolvem quase todas as situações da vida.",
+      "itens": [
+        {
+          "titulo": "Grande angular: 16-35mm",
+          "texto": "Melhor para: paisagens e arquitetura. Por que ter: mostra o ambiente todo, mesmo em espaços apertados."
+        },
+        {
+          "titulo": "A \"faz tudo\": 24-70mm f/2.8",
+          "texto": "Melhor para: casamentos, eventos e viagens. Por que ter: vai do ângulo aberto ao retrato. Versatilidade total."
+        },
+        {
+          "titulo": "A \"espiã\": 70-200mm f/2.8",
+          "texto": "Melhor para: shows e natureza. Por que ter: fotografa de longe sem atrapalhar e cria fundos bem desfocados."
+        },
+        {
+          "titulo": "A \"retrateira\": 85mm f/1.8",
+          "texto": "Melhor para: fotos de família e retratos. Por que ter: deixa a pessoa em destaque e o fundo bem suave."
+        },
+        {
+          "titulo": "O \"olho humano\": 50mm f/1.8",
+          "texto": "Melhor para: uso geral e ambientes com pouca luz. Por que ter: vê o mundo como os nossos olhos, é leve e barata."
+        }
+      ]
+    },
+    {
+      "id": "dica-daniel",
+      "titulo": "Dica do Mentor Daniel",
+      "introducao": "O peso do equipamento importa.",
+      "destaque": "O professor Daniel recomenda sistemas Mirrorless (como Canon R10 ou Sony a7C): qualidade profissional em corpos leves, que não cansam o braço — especialmente importante para quem tem mais de 60 anos.",
+      "itens": []
+    },
+    {
+      "id": "vocabulario",
+      "titulo": "Vocabulário da câmera — sem complicação",
+      "introducao": "As palavras técnicas que mais aparecem nas aulas, explicadas do jeito fácil.",
+      "itens": [
+        {
+          "titulo": "DSLR (Digital Single-Lens Reflex)",
+          "texto": "Câmeras com espelho interno que mostra no visor exatamente o que a lente vê. São robustas e têm bateria de longa duração."
+        },
+        {
+          "titulo": "Mirrorless (sem espelho)",
+          "texto": "Câmeras modernas que mostram a imagem direto na tela ou visor digital. São mais leves e mostram uma prévia de como a foto ficará."
+        },
+        {
+          "titulo": "Sensor CMOS",
+          "texto": "É o \"coração\" das câmeras e celulares de hoje: transforma luz em imagem com pouca bateria e alta qualidade."
+        },
+        {
+          "titulo": "Exposição",
+          "texto": "É o equilíbrio de luz da foto. Bem exposta não é nem clara demais, nem escura demais."
+        },
+        {
+          "titulo": "Abertura (Diafragma)",
+          "texto": "Controla a luz que entra pela lente e define se o fundo fica desfocado ou tudo fica nítido."
+        },
+        {
+          "titulo": "Velocidade do obturador",
+          "texto": "O tempo de \"clique\". Rápida congela o movimento (um neto correndo); lenta pode criar efeitos artísticos de borrão."
+        },
+        {
+          "titulo": "ISO",
+          "texto": "A sensibilidade à luz. Em ambientes escuros o ISO sobe — mas demais gera granulação na imagem."
+        },
+        {
+          "titulo": "Foco (Focus)",
+          "texto": "O ponto mais nítido da foto, para onde queremos que o olhar de quem vê seja conduzido."
+        },
+        {
+          "titulo": "Foco automático por IA",
+          "texto": "Tecnologia que reconhece olhos e rostos e mantém a pessoa sempre nítida, mesmo se movendo."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "itens": [
+    {
+      "titulo": "Curso de Fotografia Express · Edição Caesb",
+      "descricao": "Apostila do curso de 60 minutos: olhar intencional, leitura da luz e composição consciente com o celular.",
+      "arquivo": "assets/docs/curso-fotografia-express-caesb.pdf",
+      "tipo": "PDF",
+      "icone": "pdf"
+    },
+    {
+      "titulo": "Podcast: Do olhar biológico à fotografia intencional",
+      "descricao": "Ouça o episódio no site e acompanhe a ideia central do curso: ver é automático; fotografar é escolher.",
+      "arquivo": "assets/docs/podcast-do-olhar-biologico-a-fotografia-intencional.mp3",
+      "tipo": "MP3",
+      "icone": "audio"
+    }
+  ]
+}
