@@ -1,8 +1,8 @@
-# Curso de Fotografia — Edição Caesb (PHP)
+# Curso de Fotografia Express — Edição Caesb (PHP)
 
-Site do **Curso de Fotografia — Alfabetização do Olhar**, edição Caesb,
-com o **Prof. Daniel Rodrigues**. Versão em PHP (páginas modulares),
-com textos adaptados para o público **60+** e banco de dados local.
+Site do **Curso de Fotografia Express — Edição Caesb**, com o **Prof. Daniel Rodrigues**.
+O curso tem 60 minutos, quatro módulos e atividades práticas com o celular.
+Versão em PHP (páginas modulares), sem etapa de build para publicação.
 
 ---
 
@@ -26,39 +26,40 @@ com textos adaptados para o público **60+** e banco de dados local.
 ## Estrutura
 
 ```
-├── index.php            Página inicial (vídeo de capa + atalhos)
+├── index.php            Página inicial (fotos do acervo + caminhos do curso)
 ├── prof-daniel.php      Prof. Daniel
-├── material.php         Baixe o Material
+├── material.php         PDF e podcast do curso
 ├── camera.php           Camera (Puter + material de leitura)
 ├── galeria.php          Galeria (fotos do professor e dos alunos)
 ├── api/
 │   └── newsletter.php   Inscrições (JSON → SQLite)
 ├── config/
-│   └── config.php       Contatos, rodapé, vídeo do hero, Puter
+│   └── config.php       Contatos, rodapé e Puter
 ├── data/
 │   ├── site.json        Textos do site (edite sem mexer em PHP)
 │   ├── materiais.json   Materiais para download
 │   ├── camera.json      Material de leitura "Conheça sua Camera"
 │   ├── galeria.json     Fotos da galeria
 │   └── storage/         Banco local (SQLite ou JSON) — criado sozinho
-├── includes/            Cabeçalho, rodapé, bolinhas e funções
+├── includes/            Cabeçalho, rodapé, painel de contato e funções
 └── assets/              CSS, JS, imagens e materiais
 ```
 
 ## O que foi alterado em relação ao projeto original (React)
 
 - Convertido para **PHP modular** (includes + páginas).
-- Menu novo, com 4 itens: **Prof. Daniel · Baixe o Material · Camera · Galeria**.
-- Removidos **"Nossa Jornada"** e os **módulos (PDFs e Áudios)**.
-- O vídeo de capa continua o mesmo:
-  *Curso de Fotografia (Alfabetizando o olhar - Caesb)*.
-- **WhatsApp e telefone** do professor nas bolinhas de rede social
-  (presentes em todas as páginas) e no rodapé.
+- Navegação compartilhada para **Início · Professor · Material · Camera Pro · Galeria**.
+- Home apresenta o curso de **60 minutos em quatro módulos**, com foco em olhar intencional, luz, composição e leitura visual.
+- Página Material oferece `Curso de Fotografia Express · Edição Caesb` em PDF para baixar e o podcast `Do olhar biológico à fotografia intencional` para ouvir no site.
+- Player do podcast oferece reprodução, pausa, volume e velocidade; a página não exibe botão para baixar o MP3.
+- Capa da Home com fotografias locais da galeria, sem autoplay ou dependência de vídeo remoto.
+- **WhatsApp, Instagram e telefone** agrupados em um painel de contato acessível em todas as páginas e também no rodapé.
+- Direção visual de laboratório fotográfico retro-futurista, mantendo o conteúdo, PHP e publicação manual por FTP.
 - Rodapé: `© 2026 Curso de Fotografia Edição Caesb - Prof. Daniel Rodrigues`.
 - Página **Camera** integrada ao **Puter.js**: abre o APP Camera do Puter
   (com conexão da conta Puter) e traz o material "Conheça sua Camera" para leitura.
 - Formulário de novidades gravando em **SQLite local** (com fallback JSON).
-- Tipografia maior, alto contraste e botões grandes — pensado para 60+.
+- Tipografia legível, alto contraste e controles com alvos adequados para toque.
 
 ## Como editar
 
@@ -66,10 +67,10 @@ com textos adaptados para o público **60+** e banco de dados local.
 |------------------------------|---------------------------------------------------|
 | Telefone / WhatsApp / Instagram | `config/config.php`                            |
 | Textos das páginas           | `data/site.json`                                  |
-| Materiais para download      | `data/materiais.json` + arquivos em `assets/docs/` |
+| PDF e podcast                | `data/materiais.json` + arquivos em `assets/docs/` |
 | Texto do material da Camera  | `data/camera.json`                                |
 | Fotos da galeria             | `data/galeria.json` + arquivos em `assets/galeria/`|
-| Rodapé e vídeo do hero       | `config/config.php`                               |
+| Rodapé e contatos            | `config/config.php`                               |
 
 ## A Camera do Puter
 
